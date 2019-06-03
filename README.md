@@ -4,8 +4,8 @@ El objetivo de este proyecto es lograr la clasificacion de sentencias medicas so
 Ejemplo:
 * Sentencia sobre causa: 
 
-** Abdominal pain related to serositis vasculitis or panniculitis may occur with SLE Physical exam Musculoskeletal exam arthritis is a feature of both SLE and WG Physical exam Peripheral vascular exam Asymmetry of pulses or the presence of vascular bruits may suggest vasculitis or large vessel arterial disease 
+*** Abdominal pain related to serositis vasculitis or panniculitis may occur with SLE Physical exam Musculoskeletal exam arthritis is a feature of both SLE and WG Physical exam Peripheral vascular exam Asymmetry of pulses or the presence of vascular bruits may suggest vasculitis or large vessel arterial disease 
 * Sentencia sobre tratamiento: 
 
-** Radiofrequency interstitial hyperthermia has been used for percutaneous ablation of hepatocellular carcinoma  under ultrasound guidance in local anesthesia 
+*** Radiofrequency interstitial hyperthermia has been used for percutaneous ablation of hepatocellular carcinoma  under ultrasound guidance in local anesthesia 
 
