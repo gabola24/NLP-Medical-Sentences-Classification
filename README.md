@@ -23,7 +23,6 @@ Las dos clases relacionan palabras de enfermedades pero en diferentes contextos,
 Como resultado final se obtuvo una precision del 80%, en los notebooks se reportan otras metricas complementarias al analisis.
 
 Se concluye que es posible la clasificacion de sentencias que comportan una relacion muy cercana, haciendo uso de las herramientas de clasificacion que permitan analisar el contexto de diversas situaciones como es el caso del lenguaje textual.
-
-Se concluye ademas que esta herramienta puede continuar su desarrollo para generar gestores de busqueda de la informacion, entre las aplicaciones anteriormente mencionadas.
+Ademas esta herramienta puede continuar su desarrollo en via de generar gestores de busqueda de la informacion como una de las posibles aplicaciones potenciales.
      
  
