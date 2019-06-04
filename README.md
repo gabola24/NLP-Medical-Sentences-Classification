@@ -21,7 +21,9 @@ Las dos clases relacionan palabras de enfermedades pero en diferentes contextos,
      * ProyectoU4 - V4 = Con los hiperparametros seleccionados se implementa un analisis por medio de Glove, donde analiza la correlacion de las palabras y se transfieren los pesos al mejor modelo encontrado con el fin de mejorar los resultados. Se reportan los resultados de precision, recall y f1 score por clase para todas las experimentaciones.
      
 Como resultado final se obtuvo una precision del 80%, en los notebooks se reportan otras metricas complementarias al analisis.
+
 Se concluye que es posible la clasificacion de sentencias que comportan una relacion muy cercana, haciendo uso de las herramientas de clasificacion que permitan analisar el contexto de diversas situaciones como es el caso del lenguaje textual.
+
 Se concluye ademas que esta herramienta puede continuar su desarrollo para generar gestores de busqueda de la informacion, entre las aplicaciones anteriormente mencionadas.
      
  
