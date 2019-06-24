@@ -1,5 +1,7 @@
-# Proyecto-U4
+# NLP - Clasificacion de sentencias medicas segun su contexto al hablar de una enfermedad:  causa o tratamiento
+
 ### Gabriel Maldonado & Catalina Zapata
+
 El objetivo de este proyecto es lograr la clasificacion de sentencias medicas sobre enfermedades segun su contexto: causa de la enfermedad o tratamiento de una enfermedad.
 
 *Ejemplo:*
